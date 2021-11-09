@@ -54,7 +54,7 @@ This iteration should automatically check for new followers daily and notify use
 
 * Notify user using telegram bot
   * Format of telegram stalk notification:
-    * Row 1 - Name | Username | Link | Tag, 
+    * Row 1 - (Name | Username) Hyperlinked | Tag, 
     * Row 2 - Following | Follower, 
     * Row 3 - Acc Description
     * Row 4 - New Accounts Followed in same format as row 1 - 3.
